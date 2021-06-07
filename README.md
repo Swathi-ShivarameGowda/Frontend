@@ -69,3 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# swathi-labforward" 
+
+
+### PROJECT INFORMATION
+Time taken to complete the project 4-5 hours
+
+The application can also be developed by calling an API to get the data. Fetch or axios can be used to call the api. I have kept the data provided in a constant file and have used it.
+
+I have used bar chart to show the sudden peaks and used react-chartjs-2 dependency for this. Additionally I have used React Hooks and functional component.
+
+There is no x-axis values given so I have displayed the x-axis values based on the number of reading sent in the data sheet
