@@ -1,0 +1,33 @@
+.App {
+  width: 700px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.bluecontainer,.redcontainer,.yellowcontainer {
+display: inline-flex;
+width: 740px;
+height: 450px;
+}
+
+@media screen and (max-width: 700px) {
+  .bluecontainer,.redcontainer,.yellowcontainer {
+    display: block;
+    width: 450px;
+    height: 500px;
+  }
+}

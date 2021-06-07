@@ -1,0 +1,12 @@
+export const BLUEDATAREADING = [1,2,1,0,1,2,1,8,9,8,1,2,0,2,1,2,3,1,2,0,8,9,2,0,3,0,2,1,2,3,8,10,2,1,2,3,0,1,2,1,2,7,6,9,1,2,0,1,2,1]
+export const BLUEDATA = 'BLUEDATA'
+export const BLUESIGNALREADING = [0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0]
+export const BLUESIGNAL = 'BLUESIGNAL'
+export const REDDATAREADING = [0,2,1,2,3,10,12,1,1,2,3,0,1,2,1,2,7,6,9,1,2,0,1,2,1,2,1,3,0,2,3,1,1,2,3,10,9,12,0,2,3,1,2,0,1,7,11,0,1,2]
+export const REDDATA = 'REDDATA'
+export const REDSIGNALREADING = [0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0]
+export const REDSIGNAL = 'REDSIGNAL'
+export const YELLOWDATAREADING = [2,1,3,0,2,2,9,7,2,3,1,2,9,8,2,3,1,2,0,1,2,3,0,10,9,1,2,1,0,1,2,1,8,9,8,1,2,0,2,1,2,1,14,10,0,1,1,2,0,3]
+export const YELLOWDATA = 'YELLOWDATA'
+export const YELLOWSIGNALREADING = [0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0]
+export const YELLOWSIGNAL = 'YELLOWSIGNAL'
