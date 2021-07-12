@@ -78,4 +78,3 @@ The application can also be developed by calling an API to get the data. Fetch o
 
 I have used bar chart to show the sudden peaks and used react-chartjs-2 dependency for this. Additionally I have used React Hooks and functional component.
 
-There is no x-axis values given so I have displayed the x-axis values based on the number of reading sent in the data sheet
